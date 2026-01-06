@@ -4,6 +4,7 @@ This project is a full stack AI-powered SaaS (Software as a Service) application
 It aims to deliver advanced AI features to end users through a scalable, intuitive, and secure web platform.
 
 🛠️Tech stack ⚙️
+
   React.js
   
   Node.js
@@ -42,12 +43,15 @@ Clone the repository:
 
 git clone https://github.com/your-org/your-repo.git
 
+```
 cd your-repo
-
+```
 
 Install dependencies:
 
+```
 npm install
+```
 
 Configure environment variables:
 
@@ -55,9 +59,12 @@ Copy .env.example to .env and add your API keys and database connection strings.
 
 Run the development server: 🌐⚛️
 
+```
 npm run dev
+```
 
 Visit http://localhost:3000 to use the app.
+
 
 Usage
 
